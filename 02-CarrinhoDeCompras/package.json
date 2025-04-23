@@ -1,0 +1,16 @@
+{
+  "name": "02-carrinhodecompras",
+  "version": "1.0.0",
+  "description": "<!--START_SECTION:header-->\r <div align=\"center\">\r   <p align=\"center\">\r     <img \r       alt=\"DIO Education\" \r       src=\"https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp\" \r       width=\"100px\" \r     />\r     <h1>Recriando a lógica do carrinho de compras da Shopee</h1>\r   </p>\r </div>\r <!--END_SECTION:header-->",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Joanna Braccini",
+  "license": "ISC",
+  "dependencies": {
+    "02-carrinhodecompras": "file:"
+  }
+}
