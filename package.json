@@ -1,0 +1,23 @@
+{
+  "name": "formacao-nodejs",
+  "version": "1.0.0",
+  "description": "<!--START_SECTION:header-->\r <div align=\"center\">\r   <p align=\"center\">\r     <img \r       alt=\"DIO Education\" \r       src=\"./.github/assets/logo.webp\" \r       width=\"100px\" \r     />\r     <h1>Formação: NodeJS Developer</h1>\r   </p>\r </div>\r <!--END_SECTION:header-->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoannaBraccini/formacao-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoannaBraccini/formacao-nodejs/issues"
+  },
+  "homepage": "https://github.com/JoannaBraccini/formacao-nodejs#readme",
+  "dependencies": {
+    "formacao-nodejs": "file:"
+  }
+}
