@@ -1,0 +1,19 @@
+{
+  "name": "03-geradorqrcode",
+  "version": "1.0.0",
+  "description": "Kit de utilidades para e-commerce",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env src/index.js"
+  },
+  "keywords": [],
+  "author": "Joanna Braccini",
+  "license": "ISC",
+  "dependencies": {
+    "03-geradorqrcode": "file:",
+    "chalk": "^5.4.1",
+    "prompt": "^1.3.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
