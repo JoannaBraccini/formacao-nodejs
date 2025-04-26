@@ -1,6 +1,6 @@
 # 🎙️ Gerenciador de Podcasts
 
-Este é um projeto de API REST desenvolvida em Node.js para gerenciar podcasts. Ele permite listar episódios e filtrar episódios por nome do podcast.
+Este é um projeto de API REST desenvolvida em Node.js sem uso de frameworkd para gerenciar podcasts. Ele permite listar episódios e filtrar episódios por nome do podcast.
 
 ## 🚀 Funcionalidades
 
