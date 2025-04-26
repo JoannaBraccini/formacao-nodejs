@@ -22,7 +22,7 @@
 <thead>
   <tr>
     <td>
-        <p align="center">Felipe Aguiar</p>
+        <p align="center">Mentor: Felipe Aguiar</p>
         <a href="https://github.com/felipeAguiarCode">
         <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
       </a>
