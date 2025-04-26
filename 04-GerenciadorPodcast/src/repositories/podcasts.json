@@ -1,0 +1,20 @@
+[
+  {
+    "podcastName": "Código Fonte TV",
+    "episode": "VOCÊ ENCARA O NOSSO DESAFIO DE LÓGICA DE PROGRAMAÇÃO?",
+    "videoId": "NcvjJe0UdLY",
+    "categories": ["desenvolvimento de software", "programação"]
+  },
+  {
+    "podcastName": "Thais Maia",
+    "episode": "A IA que trabalha como uma equipe inteira! MANUS AI",
+    "videoId": "61Z8E26AiUQ",
+    "categories": ["inteligência artificial"]
+  },
+  {
+    "podcastName": "Labenu",
+    "episode": "API - conceitos básicos: o que são, como funcionam, para que servem",
+    "videoId": "gMQfqeZypFY",
+    "categories": ["API", "inteligência artificial"]
+  }
+]

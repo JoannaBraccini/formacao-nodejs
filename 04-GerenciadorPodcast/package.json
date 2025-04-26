@@ -1,0 +1,21 @@
+{
+  "name": "04-gerenciadorpodcast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx --env-file=.env src/server.ts",
+    "watch": "tsx watch --env-file=.env src/server.ts",
+    "dist": "tsup src",
+    "start": "npm run dist && --env-file=.env node/server.js"
+  },
+  "keywords": [],
+  "author": "Joanna Braccini",
+  "license": "ISC",
+  "description": "API REST Node.js para gerenciar podcasts",
+  "devDependencies": {
+    "@types/node": "^22.15.2",
+    "tsup": "^8.4.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  }
+}
