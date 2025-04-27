@@ -5,3 +5,4 @@ set tsconfig.json
 set scripts at package.json
 set .env
 npm i express
+npm i cors
